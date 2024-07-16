@@ -4,7 +4,7 @@
  (preprocess (pps ppx_jane))
  (libraries
    camlzip
-   digestif.c
+   digestif.ocaml
    base64
    uri-sexp
    fastws
